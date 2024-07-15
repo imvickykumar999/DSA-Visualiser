@@ -1,5 +1,5 @@
 # DSA Visualiser
 
->## `Bubble Sort`
+>## `All Sort`
 >
->![image](https://github.com/user-attachments/assets/0c71c0ac-2262-47f9-834f-e82a21474a17)
+>![image](https://github.com/user-attachments/assets/eea0ab62-ff35-48cd-9ad8-e95d6474ab5f)
